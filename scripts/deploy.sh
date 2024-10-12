@@ -48,3 +48,4 @@ apply_k8s_manifests
 # Hash 8041
 # Hash 5877
 # Hash 7233
+# Hash 1978
